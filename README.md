@@ -1,2 +1,24 @@
 # Food-Delivery-Times-Analysis
-A data analysis project that predicts food delivery times using clustering techniques (K-Means) to identify patterns in delivery performance based on distance, preparation time, courier speed, experience, and customer ratings.
+Overview
+
+This project analyzes food delivery data using the K-Means clustering algorithm to identify delivery patterns and group similar orders based on their characteristics.
+
+##Features Used
+Distance (km)
+Preparation Time (minutes)
+Delivery Time (minutes)
+Courier Speed
+Courier Experience (years)
+Customer Rating
+##Techniques
+Data Cleaning
+Data Preprocessing
+Feature Scaling
+K-Means Clustering
+Data Visualization
+##Tools
+R
+tidyverse
+cluster
+factoextra
+readxl
