@@ -3,20 +3,22 @@ Overview
 
 This project analyzes food delivery data using the K-Means clustering algorithm to identify delivery patterns and group similar orders based on their characteristics.
 
-##Features Used
+## Features Used
 Distance (km)
 Preparation Time (minutes)
 Delivery Time (minutes)
 Courier Speed
 Courier Experience (years)
 Customer Rating
-##Techniques
+
+## Techniques
 Data Cleaning
 Data Preprocessing
 Feature Scaling
 K-Means Clustering
 Data Visualization
-##Tools
+
+## Tools
 R
 tidyverse
 cluster
